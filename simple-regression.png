@@ -1,0 +1,8 @@
+// 简单有效的网络
+digraph {
+	x
+	"Hidden Layer"
+	"f(x)"
+	x -> "Hidden Layer"
+	"Hidden Layer" -> "f(x)"
+}
